@@ -28,5 +28,3 @@ I have been learning how to code since May 2020 after switching my career. It ha
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/yveswangui"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yveswangui&stroke=ffffff&background=581c87&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/yveswangui" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yveswangui&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
