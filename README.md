@@ -1,15 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wangui :)
+Hi! It's Wangui✨
 =================================================================================================================================
 
 Web Developer
 -------------
 
-I have been learning how to code since May 2020 after switching my career. It has been a great experience overall. A few ups and downs, and eager to see what my tech journey has in store.
+I have been learning how to code since May 2021. It has been a great experience overall. A few ups and downs, and eager to see what my tech journey has in store.
 
 * 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [yveswangui@gmail.com](mailto:yveswangui@gmail.com)
-* 🧠  I'm learning Java, it has been intense but trying to get the hang of it
-* ⚡  I love cats
+* 💌  You can contact me at [yveswangui@gmail.com](mailto:yveswangui@gmail.com)
+* ⚜️  I'm learning Java, it has been intense but trying to get the hang of it
+* 🤸🏾‍♀️ Currently working on an MIDP using Java 
+* 💜  I love cats
 
 ### Skills
 
