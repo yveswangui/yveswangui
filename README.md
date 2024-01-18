@@ -7,7 +7,7 @@ Web Developer
 I have been learning how to code since May 2021. It has been a great experience overall. A few ups and downs, and eager to see what my tech journey has in store.
 
 * 🌍  I'm based in Nairobi, Kenya
-* 💌  You can contact me at [yveswangui@gmail.com](mailto:yveswangui@gmail.com)
+* 💌  Reach me at [yveswangui@gmail.com](mailto:yveswangui@gmail.com)
 * ☁️ I'm learning Java and how it can be integrated in various applications 
 * 🤸🏾‍♀️ Currently working on an MIDP using Java 
 * 💜  PS, A cat lover
