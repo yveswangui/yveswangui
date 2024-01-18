@@ -8,7 +8,7 @@ I have been learning how to code since May 2021. It has been a great experience 
 
 * 🌍  I'm based in Nairobi, Kenya
 * 💌  You can contact me at [yveswangui@gmail.com](mailto:yveswangui@gmail.com)
-* ☁️ I'm learning Java, it has been intense but trying to get the hang of it
+* ☁️ I'm learning Java and how it can be integrated in various applications 
 * 🤸🏾‍♀️ Currently working on an MIDP using Java 
 * 💜  PS, A cat lover
 
